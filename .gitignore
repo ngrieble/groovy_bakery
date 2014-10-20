@@ -32,8 +32,8 @@
 /target
 
 # Intellij
-.idea/
-*.iml
+workspace.xml
+tasks.xml
 *.iws
 
 # Mac
