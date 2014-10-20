@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/bakery_groovy.iml" filepath="$PROJECT_DIR$/.idea/bakery_groovy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/groovy_bakery.iml" filepath="$PROJECT_DIR$/.idea/groovy_bakery.iml" />
     </modules>
   </component>
 </project>
