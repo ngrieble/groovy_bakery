@@ -1,0 +1,12 @@
+body {
+	background-color: #eeeeee;
+	font-family: sans-serif;
+    padding: 5px;
+}
+
+label {
+	display: inline-block;
+	width: 120px;
+	text-align: right;
+    padding-right: 5px;
+}
