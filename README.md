@@ -25,7 +25,7 @@ Detailed Setup:
 5. Configure the project in IntelliJ:
 	* Right click the top project folder. Select 'Add Framework Support...'. Check all Spring and Groovy options available.
 	* File -> Project Structure. Under 'Project' configure the sdk by navigating to your java jdk home folder
-	* In ContactController you might need to option/alt + enter on a @Grab statement and select the 'Grab the artifacts' option to force the jars to pull down
+	* In ItemController you might need to option/alt + enter on a @Grab statement and select the 'Grab the artifacts' option to force the jars to pull down
 6. Run the project using:  
 
 	```sh
